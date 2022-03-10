@@ -1,7 +1,6 @@
 Hi, my name is Riikka!
 
-I'm a UX designer who codes.
-I'm currently learning WordPress development, SCSS and BEM selectors.
+I am a UX designer who does a little bit of coding and I'm currently working at Reaktor.
 
 Check out my design portfolio: https://riikkasutinen.com/
 
